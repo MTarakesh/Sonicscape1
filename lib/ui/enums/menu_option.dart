@@ -1,0 +1,1 @@
+enum MenuOption { settings, signOut }

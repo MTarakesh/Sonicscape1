@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783942608205",
+    "project_id": "testsc-da3fe",
+    "storage_bucket": "testsc-da3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783942608205:android:d23b5adbc6279ceb26c304",
+        "android_client_info": {
+          "package_name": "com.example.onboarding_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl7mNkmrrG3gpWyH8YkukzeTblqp5Rq34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

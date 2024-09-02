@@ -1,0 +1,56 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sonicscape-dev-132817-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767397751185:role/amplify-sonicscape-dev-132817-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767397751185:role/amplify-sonicscape-dev-132817-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-sonicscape-dev-132817-deployment",
+      "UnauthRoleName": "amplify-sonicscape-dev-132817-unauthRole",
+      "StackName": "amplify-sonicscape-dev-132817",
+      "StackId": "arn:aws:cloudformation:ap-south-1:767397751185:stack/amplify-sonicscape-dev-132817/9a741140-eb46-11ee-a787-0614fae352c4",
+      "AmplifyAppId": "d3k4r54wd0q8jp"
+    },
+    "categories": {
+      "auth": {
+        "sonicscapecf30a165": {}
+      }
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sonicscape-test-132251-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767397751185:role/amplify-sonicscape-test-132251-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767397751185:role/amplify-sonicscape-test-132251-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-sonicscape-test-132251-deployment",
+      "UnauthRoleName": "amplify-sonicscape-test-132251-unauthRole",
+      "StackName": "amplify-sonicscape-test-132251",
+      "StackId": "arn:aws:cloudformation:ap-south-1:767397751185:stack/amplify-sonicscape-test-132251/2c7832f1-ecd8-11ee-8fd9-029db7b07d7b",
+      "AmplifyAppId": "d3k4r54wd0q8jp"
+    },
+    "categories": {
+      "auth": {
+        "sonicscapecf30a165": {}
+      }
+    }
+  },
+  "testing": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sonicscape-testing-150122-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767397751185:role/amplify-sonicscape-testing-150122-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767397751185:role/amplify-sonicscape-testing-150122-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-sonicscape-testing-150122-deployment",
+      "UnauthRoleName": "amplify-sonicscape-testing-150122-unauthRole",
+      "StackName": "amplify-sonicscape-testing-150122",
+      "StackId": "arn:aws:cloudformation:ap-south-1:767397751185:stack/amplify-sonicscape-testing-150122/ef59a6c0-ece5-11ee-8b8d-0663e47e477f",
+      "AmplifyAppId": "d3k4r54wd0q8jp"
+    },
+    "categories": {
+      "auth": {
+        "sonicscape0ea8b2f7": {}
+      }
+    }
+  }
+}
